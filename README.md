@@ -5,3 +5,4 @@
 [https://github.com/harshith2808/aiml_batch5/blob/main/assignment_4.ipynb]
 [https://github.com/harshith2808/aiml_batch5/blob/main/assignment_5.ipynb]
 [https://github.com/harshith2808/aiml_batch5/blob/main/assignment_06.ipynb]
+[https://github.com/harshith2808/aiml_batch5/blob/main/assignment_7.ipynb]
